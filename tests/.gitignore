@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Playwright
+.playwright/
+
+# Reports
+reports/
+
+# OS
+.DS_Store
